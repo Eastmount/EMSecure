@@ -1,0 +1,184 @@
+G:\毕业设计\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\第二周 项目\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\3.第二周 项目 清空回收站\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\5.第五周 项目 整理点击功能\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\EMSecure.UrlHistory.resources
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\6.第六周 项目 获取IE记录\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanU.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecent.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.CleanU.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\7.第七周 项目 获取USB记录+获取Recent\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanFile.resources
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecent.resources
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanU.resources
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\9.第七周 项目 获取USB记录\EMSecure\EMSecure\obj\Debug\EMSecure.CleanWord.resources
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.CleanFile.resources
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecent.resources
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.CleanU.resources
+G:\毕业设计\项目文件\EMSecure\EMSecure\obj\Debug\EMSecure.CleanWord.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.CleanFile.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecent.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.CleanU.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.CleanWord.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\10.界面设计\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.CleanFile.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecent.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.CleanU.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.CleanWord.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\11.文件粉碎\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.CleanFile.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecent.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.CleanU.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.CleanWord.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\11.文件粉碎添加菜单栏 - 副本\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\13.文件粉碎成功版\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\13.文件粉碎成功版\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\13.文件粉碎成功版\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\bin\Debug\EMSecure.exe
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\bin\Debug\EMSecure.pdb
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.CleanFile.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.CleanIE.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecent.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.CleanRecycle.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.CleanU.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.CleanWord.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.EMSecure.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.Properties.Resources.resources
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\项目文件\14.USB痕迹清除\EMSecure\EMSecure\obj\Debug\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\bin\Debug\EMSecure.exe.config
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Debug\EMSecure.exe
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Debug\EMSecure.pdb

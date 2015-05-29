@@ -1,0 +1,324 @@
+信息标号 No.1
+USB名称  aigo USB Device
+UID标记  00A1234567AF&0
+路径信息 USBSTOR\Disk&Ven_aigo&Prod_&Rev_\00A1234567AF&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.2
+USB名称  aigo USB Device
+UID标记  00A1234567DC&0
+路径信息 USBSTOR\Disk&Ven_aigo&Prod_&Rev_\00A1234567DC&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.3
+USB名称  aigo Miniking USB Device
+UID标记  Q0UKCH37&0
+路径信息 USBSTOR\Disk&Ven_aigo&Prod_Miniking&Rev_8.07\Q0UKCH37&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.4
+USB名称  Coolpad Android USB Device
+UID标记  7&1d3b2474&0&CoolPad802203124401711&0
+路径信息 USBSTOR\Disk&Ven_Coolpad&Prod_Android&Rev_0100\7&1d3b2474&0&CoolPad802203124401711&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.5
+USB名称  CSD T59S M10T 2X0012897HL USB Device
+UID标记  1123127292469775&0
+路径信息 USBSTOR\Disk&Ven_CSD_T59S&Prod_M10T_2X0012897HL&Rev_GL00\1123127292469775&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.6
+USB名称  General USB Flash Disk USB Device
+UID标记  0325300000002B84&0
+路径信息 USBSTOR\Disk&Ven_General&Prod_USB_Flash_Disk&Rev_1.0\0325300000002B84&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.7
+USB名称  Generic Flash Disk USB Device
+UID标记  CAF0E5BC&0
+路径信息 USBSTOR\Disk&Ven_Generic&Prod_Flash_Disk&Rev_8.07\CAF0E5BC&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.8
+USB名称  HP v100w USB Device
+UID标记  001D92A85F1DB98083290204&0
+路径信息 USBSTOR\Disk&Ven_HP&Prod_v100w&Rev_PMAP\001D92A85F1DB98083290204&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.9
+USB名称  hp v115p USB Device
+UID标记  AA00000000001347&0
+路径信息 USBSTOR\Disk&Ven_hp&Prod_v115p&Rev_1100\AA00000000001347&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.10
+USB名称  hp v165w USB Device
+UID标记  AA00000000004010&0
+路径信息 USBSTOR\Disk&Ven_hp&Prod_v165w&Rev_1100\AA00000000004010&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.11
+USB名称  Kingston DataTraveler 2.0 USB Device
+UID标记  C860008862E0FD608A092424&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DataTraveler_2.0&Rev_1.00\C860008862E0FD608A092424&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.12
+USB名称  Kingston DataTraveler 2.0 USB Device
+UID标记  5B840F0009A9&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DataTraveler_2.0&Rev_PMAP\5B840F0009A9&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.13
+USB名称  Kingston DataTraveler G2 USB Device
+UID标记  001CC0EC31EDF03097E600A5&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DataTraveler_G2&Rev_1.00\001CC0EC31EDF03097E600A5&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.14
+USB名称  Kingston DataTraveler G3 USB Device
+UID标记  6C626D7C27FAFCA1893623BE&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DataTraveler_G3&Rev_1.00\6C626D7C27FAFCA1893623BE&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.15
+USB名称  Kingston DataTraveler G3 USB Device
+UID标记  9BBC1100F01468D4&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DataTraveler_G3&Rev_PMAP\9BBC1100F01468D4&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.16
+USB名称  Kingston DT 101 G2 USB Device
+UID标记  001CC05FE92BFCB0C9070E47&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00\001CC05FE92BFCB0C9070E47&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.17
+USB名称  Kingston DT 101 G2 USB Device
+UID标记  001CC0EC346CFC71371B24BE&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00\001CC0EC346CFC71371B24BE&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.18
+USB名称  Kingston DT 101 G2 USB Device
+UID标记  000AEB91BC94EAC145A6016C&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DT_101_G2&Rev_PMAP\000AEB91BC94EAC145A6016C&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.19
+USB名称  Kingston DT 101 G2 USB Device
+UID标记  001CC0EC32BCBCA1400000CC&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DT_101_G2&Rev_PMAP\001CC0EC32BCBCA1400000CC&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.20
+USB名称  Kingston DT 101 G2 USB Device
+UID标记  90C90B00970413A3&0
+路径信息 USBSTOR\Disk&Ven_Kingston&Prod_DT_101_G2&Rev_PMAP\90C90B00970413A3&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.21
+USB名称  Kootion Flash Disk USB Device
+UID标记  17114000A6B0BA01&0
+路径信息 USBSTOR\Disk&Ven_Kootion&Prod_Flash_Disk&Rev_5.00\17114000A6B0BA01&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.22
+USB名称  Kootion Flash Disk USB Device
+UID标记  17114000A6B0BA01&1
+路径信息 USBSTOR\Disk&Ven_Kootion&Prod_Flash_Disk&Rev_5.00\17114000A6B0BA01&1
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.23
+USB名称  Lenovo USB Flash Drive USB Device
+UID标记  AA00000000004086&0
+路径信息 USBSTOR\Disk&Ven_Lenovo&Prod_USB_Flash_Drive&Rev_1100\AA00000000004086&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.24
+USB名称  Lenovo USB Hard Drive USB Device
+UID标记  00000000000001A030303030&0
+路径信息 USBSTOR\Disk&Ven_Lenovo&Prod_USB_Hard_Drive&Rev_1.14\00000000000001A030303030&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.25
+USB名称  OPPO  FLASH DISK USB Device
+UID标记  535944300000000&0
+路径信息 USBSTOR\Disk&Ven_OPPO&Prod__FLASH_DISK&Rev_6235\535944300000000&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.26
+USB名称  OPPO  FLASH DISK USB Device
+UID标记  535944300000000&1
+路径信息 USBSTOR\Disk&Ven_OPPO&Prod__FLASH_DISK&Rev_6235\535944300000000&1
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.27
+USB名称  OPPO  FLASH DISK USB Device
+UID标记  53594430280413f&0
+路径信息 USBSTOR\Disk&Ven_OPPO&Prod__FLASH_DISK&Rev_6235\53594430280413f&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.28
+USB名称  OPPO  FLASH DISK USB Device
+UID标记  53594430280413f&1
+路径信息 USBSTOR\Disk&Ven_OPPO&Prod__FLASH_DISK&Rev_6235\53594430280413f&1
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.29
+USB名称  SanDisk Cruzer Blade USB Device
+UID标记  200602665207AB5339E8&0
+路径信息 USBSTOR\Disk&Ven_SanDisk&Prod_Cruzer_Blade&Rev_1.26\200602665207AB5339E8&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.30
+USB名称  SanDisk Cruzer Orbit USB Device
+UID标记  4C532000020322123074&0
+路径信息 USBSTOR\Disk&Ven_SanDisk&Prod_Cruzer_Orbit&Rev_1.26\4C532000020322123074&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.31
+USB名称  SanDisk Cruzer Pop USB Device
+UID标记  4C532000001128119540&0
+路径信息 USBSTOR\Disk&Ven_SanDisk&Prod_Cruzer_Pop&Rev_1.26\4C532000001128119540&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.32
+USB名称  SanDisk Cruzer Pop USB Device
+UID标记  4C532000011005115153&0
+路径信息 USBSTOR\Disk&Ven_SanDisk&Prod_Cruzer_Pop&Rev_1.26\4C532000011005115153&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.33
+USB名称  SanDisk Cruzer Pop USB Device
+UID标记  4C532000030609102170&0
+路径信息 USBSTOR\Disk&Ven_SanDisk&Prod_Cruzer_Pop&Rev_1.26\4C532000030609102170&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.34
+USB名称  SanDisk Cruzer Switch USB Device
+UID标记  4C532000060809110310&0
+路径信息 USBSTOR\Disk&Ven_SanDisk&Prod_Cruzer_Switch&Rev_1.26\4C532000060809110310&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.35
+USB名称  SanDisk Firebird USB Device
+UID标记  0123456789ABCDEF&0
+路径信息 USBSTOR\Disk&Ven_SanDisk&Prod_Firebird&Rev_1.07\0123456789ABCDEF&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.36
+USB名称  Seagate Desktop USB Device
+UID标记  2GHN2YLB____&0
+路径信息 USBSTOR\Disk&Ven_Seagate&Prod_Desktop&Rev_0130\2GHN2YLB____&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.37
+USB名称  Seagate Portable USB Device
+UID标记  2GH5ZVNQ____&0
+路径信息 USBSTOR\Disk&Ven_Seagate&Prod_Portable&Rev_0130\2GH5ZVNQ____&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.38
+USB名称  SMI USB DISK USB Device
+UID标记  6&273c5863&0
+路径信息 USBSTOR\Disk&Ven_SMI&Prod_USB_DISK&Rev_1100\6&273c5863&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.39
+USB名称  SMI USB DISK USB Device
+UID标记  6&39f60908&0
+路径信息 USBSTOR\Disk&Ven_SMI&Prod_USB_DISK&Rev_1100\6&39f60908&0
+log时间 2014-06-16 04:24:41 
+
+信息标号 No.40
+USB名称  SMI USB DISK USB Device
+UID标记  7&20b66859&0
+路径信息 USBSTOR\Disk&Ven_SMI&Prod_USB_DISK&Rev_1100\7&20b66859&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.41
+USB名称  SONY "PSP" MS USB Device
+UID标记  9026DCC4B6FB511F&0
+路径信息 USBSTOR\Disk&Ven_SONY&Prod_"PSP"_MS&Rev_1.00\9026DCC4B6FB511F&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.42
+USB名称  TOSHIBA External USB 3.0 USB Device
+UID标记  20130220000609F&0
+路径信息 USBSTOR\Disk&Ven_TOSHIBA&Prod_External_USB_3.0&Rev_0\20130220000609F&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.43
+USB名称  TOSHIBA External USB 3.0 USB Device
+UID标记  222228151F03&0
+路径信息 USBSTOR\Disk&Ven_TOSHIBA&Prod_External_USB_3.0&Rev_0201\222228151F03&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.44
+USB名称  Toshiba External USB HDD USB Device
+UID标记  2011011512B8&0
+路径信息 USBSTOR\Disk&Ven_Toshiba&Prod_External_USB_HDD&Rev_\2011011512B8&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.45
+USB名称  TOSHIBA MQ01ABD100 USB Device
+UID标记  312045735555AX00&0
+路径信息 USBSTOR\Disk&Ven_TOSHIBA&Prod_MQ01ABD100&Rev_AX00\312045735555AX00&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.46
+USB名称  USB DISK USB Device
+UID标记  6&19e1913d&0
+路径信息 USBSTOR\Disk&Ven_USB&Prod_DISK&Rev_1.00\6&19e1913d&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.47
+USB名称  USB DISK USB Device
+UID标记  6&727e098&0
+路径信息 USBSTOR\Disk&Ven_USB&Prod_DISK&Rev_1.00\6&727e098&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.48
+USB名称  USB 2.0 USB Flash Drive USB Device
+UID标记  9c73ad6758a671&0
+路径信息 USBSTOR\Disk&Ven_USB_2.0&Prod_USB_Flash_Drive&Rev_0.00\9c73ad6758a671&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.49
+USB名称  USB 2.0 USB Flash Drive USB Device
+UID标记  6&162cdbe6&0
+路径信息 USBSTOR\Disk&Ven_USB_2.0&Prod_USB_Flash_Drive&Rev_1.00\6&162cdbe6&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.50
+USB名称  USB 2.0 USB Flash Drive USB Device
+UID标记  6&28e68c8b&0
+路径信息 USBSTOR\Disk&Ven_USB_2.0&Prod_USB_Flash_Drive&Rev_1.00\6&28e68c8b&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.51
+USB名称  WD My Passport 0748 USB Device
+UID标记  575842314334324539313138&0
+路径信息 USBSTOR\Disk&Ven_WD&Prod_My_Passport_0748&Rev_1010\575842314334324539313138&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.52
+USB名称  WD My Passport 07A8 USB Device
+UID标记  575833314143325438383433&0
+路径信息 USBSTOR\Disk&Ven_WD&Prod_My_Passport_07A8&Rev_1033\575833314143325438383433&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.53
+USB名称  WDC WD25 00BEKT-60V5T1 USB Device
+UID标记  000000000033&0
+路径信息 USBSTOR\Disk&Ven_WDC_WD25&Prod_00BEKT-60V5T1&Rev_0008\000000000033&0
+log时间 2014-06-16 04:24:42 
+
+信息标号 No.54
+USB名称  ZTE Mass storage USB Device
+UID标记  N880E&0
+路径信息 USBSTOR\Disk&Ven_ZTE&Prod_Mass_storage&Rev_0100\N880E&0
+log时间 2014-06-16 04:24:42 
+

@@ -1,0 +1,16 @@
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\bin\Release\EMSecure.exe.config
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\bin\Release\EMSecure.exe
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\bin\Release\EMSecure.pdb
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.csprojResolveAssemblyReference.cache
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.CleanFile.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.CleanIE.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.CleanRecent.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.CleanRecycle.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.CleanU.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.CleanWord.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.EMSecure.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\MyOpaqueLayer.MyOpaqueLayer.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.Properties.Resources.resources
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.csproj.GenerateResource.Cache
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.exe
+G:\毕业设计\毕业设计装订\08111003_杨秀璋_1120102042\杨秀璋_1120102042_源代码\EMSecure\obj\Release\EMSecure.pdb
